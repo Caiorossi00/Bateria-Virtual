@@ -19,8 +19,8 @@ Destaques e Aprendizados: <br>
 
 Datas Importantes: 
 <ul>
-  <li>Início: 28/01/2024</li>
-  <li>Conclusão: 28/01/2024</li>
+  <li>Início: 28/02/2024</li>
+  <li>Conclusão: 28/02/2024</li>
 </ul>
 
 Link: <a href="https://caiorossi00.github.io/Bateria-Virtual/">Bateria Virtual</a>
